@@ -1,0 +1,12 @@
+@media (max-width: 900px){
+   .logo img{
+    width: 130px;
+   }
+   
+}
+
+@media (max-width: 327px){
+    .title h1{
+        font-size: 10px;
+       }
+}
